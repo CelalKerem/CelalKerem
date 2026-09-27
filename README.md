@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello, I'm Celal Kerem Okumuşer! 👋
+
+I am a freshman Computer Science student at Bilkent University.
+
+## 🚀 About Me
+- 🎓 Currently studying **CS 101 - Algorithms & Programming I**
+- 💻 Learning Java and development tools like VS Code and GitHub
+- 📬 How to reach me: Celalkerem@outlook.com
+
+## 🛠️ Tech Stack
+- **Languages:** Java
+- **Tools:** VS Code, Git
 
 <!--
 **CelalKerem/CelalKerem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
